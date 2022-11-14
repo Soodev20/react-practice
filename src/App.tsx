@@ -1,10 +1,39 @@
-import './App.css';
+import { Suspense, lazy } from 'react';
+import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
+import Layout from './components/common/Layout';
+import Loading from './components/common/Loading';
+
+const ListPage = lazy(() => import('./pages/List'));
+const DetailPage = lazy(() => import('./pages/Detail'))
 
 function App() {
   return (
-    <div className="App">
-      <p>hi</p>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route element={<Layout />}>
+          <Route
+            path='/list'
+            element={
+              <Suspense fallback={<Loading />}>
+                <ListPage />
+              </Suspense>
+            }
+          />
+          <Route
+            path='/detail'
+            element={
+              <Suspense fallback={<Loading />}>
+                <DetailPage />
+              </Suspense>
+            }
+          />
+          <Route
+            path="/"
+            element={<Navigate to="/list" replace />}
+          />
+        </Route>
+      </Routes>
+    </BrowserRouter>
   );
 }
 
