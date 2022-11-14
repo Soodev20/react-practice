@@ -1,8 +1,8 @@
 import { atom } from 'recoil';
 
-const inputKeywordAtom = atom({
-  key: '@input/inputKeyword',
+const inputKeywordAtom = atom<string>({
+  key: '@input/Keyword',
   default: '',
 });
 
-export default inputKeywordAtom
+export default inputKeywordAtom;
