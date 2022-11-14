@@ -1,3 +1,4 @@
+import { useNavigate } from 'react-router-dom';
 import { css } from '@emotion/react';
 import { iClub } from '../type/type';
 
@@ -19,13 +20,11 @@ const cardWrapper = css`
 
 const imgContainer = css`
   position: relative;
-  width: 100%;
-  height: auto;
   overflow: hidden;
 
   img {
     position: absolute;
-    width: 105%;
+    width: auto;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -36,7 +35,7 @@ const textContainer = css`
   position: relative;
   width: auto;
   overflow: hidden;
-  padding: 1rem;
+  padding: 0.5rem;
 
   h5 {
     width: 100%;
@@ -44,20 +43,31 @@ const textContainer = css`
     text-overflow: ellipsis;
     white-space: nowrap;
   }
+
+  span {
+    color: #696969;
+  }
 `
 
 function ClubInfoCard({ clubData }: CardProps) {
-  const { coverUrl, name, type, place, description } = clubData;
+  const { id, coverUrl, name, type, place, description } = clubData;
+  const navigate = useNavigate();
+
+  const onClickHandler = (id: string) => {
+    navigate({
+      pathname: '/detail',
+      search: `?id=${id}`,
+    });
+  }
 
   return (
-    <div css={cardWrapper}>
+    <div css={cardWrapper} onClick={() => onClickHandler(id)}>
       <div css={imgContainer}>
         <img src={coverUrl}/>
       </div>
       <div css={textContainer}>
         <h4>{name}</h4>
-        <span>{type}</span>
-        <span>{place}</span>
+        <span>{`${type}, @${place}`}</span>
         <h5>{description}</h5>
       </div>
     </div>
