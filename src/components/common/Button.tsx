@@ -1,9 +1,9 @@
 import { css } from '@emotion/react';
 
 type ButtonProps = {
-  clickHandler: () => void,
-  text: string,
-  color?: string,
+  clickHandler: () => void;
+  text: string;
+  color?: string;
 }
 
 const filterButton = (color: string | undefined) => css`

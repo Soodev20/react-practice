@@ -1,7 +1,7 @@
 type LabelProps = {
-  label: string,
-  isChecked: boolean,
-  clickHandler: () => void,
+  label: string;
+  isChecked: boolean;
+  clickHandler: () => void;
 }
 
 function CheckLabel({ label, isChecked, clickHandler }: LabelProps) {
