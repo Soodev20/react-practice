@@ -1,76 +1,40 @@
 import { useNavigate } from 'react-router-dom';
+import { iResponseClubInfo } from '../type/type';
+import InfoCard from '../components/common/InfoCard';
 import { css } from '@emotion/react';
-import { iClub } from '../type/type';
 
 type CardProps = {
-  clubData: iClub;
+  cardData: iResponseClubInfo;
 }
 
-const cardWrapper = css`
-  display: grid;
-  grid-template-rows: repeat(auto-fit, minmax(200px, 1fr));
+const cardWrapperGrid = css`
   cursor: pointer;
-  flex-direction: column;
-  border-radius: 4px;
-  overflow: hidden;
-  box-shadow: 0 0 0 1px #ecece9 inset;
-  background: #fff;
-  height: 100%;
+  grid-template-rows: repeat(auto-fit, minmax(200px, 1fr));
 `
 
-const imgContainer = css`
-  position: relative;
-  overflow: hidden;
-
-  img {
-    position: absolute;
-    width: auto;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-`
-
-const textContainer = css`
-  position: relative;
-  width: auto;
-  overflow: hidden;
-  padding: 0.5rem;
-
-  h5 {
-    width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-
-  span {
-    color: #696969;
-  }
-`
-
-function ClubInfoCard({ clubData }: CardProps) {
-  const { id, coverUrl, name, type, place, description } = clubData;
+function ClubInfoCard({ cardData }: CardProps) {
   const navigate = useNavigate();
+  const { name, type, place, description } = cardData.club;
 
-  const onClickHandler = (id: string) => {
+  const onClickHandler = (cardData: iResponseClubInfo) => {
     navigate({
       pathname: '/detail',
-      search: `?id=${id}`,
+      search: `?id=${cardData.club.id}`,
     });
   }
 
   return (
-    <div css={cardWrapper} onClick={() => onClickHandler(id)}>
-      <div css={imgContainer}>
-        <img src={coverUrl}/>
-      </div>
-      <div css={textContainer}>
+    <InfoCard
+      cardData={cardData}
+      clickHandler={() => onClickHandler(cardData)}
+      styles={cardWrapperGrid}
+    >
+      <div>
         <h4>{name}</h4>
         <span>{`${type}, @${place}`}</span>
         <h5>{description}</h5>
       </div>
-    </div>
+    </InfoCard>
   );
 }
 
