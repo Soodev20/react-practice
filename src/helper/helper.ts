@@ -1,4 +1,4 @@
-import { iResponseClubInfo, iFilterCondition } from '../type/type';
+import { iResponseClubInfo, iFilterCondition, iPerson } from '../type/type';
 
 export const getFilterCategories = (clubInfo: Array<iResponseClubInfo>): iFilterCondition => {
   const { type, place, price }: iFilterCondition = {
@@ -16,4 +16,16 @@ export const getFilterCategories = (clubInfo: Array<iResponseClubInfo>): iFilter
   });
 
   return ({ type, place, price });
+}
+
+export const isIncludesKeyword = (target: string, keyword: string) => {
+  return target.includes(keyword);
+}
+
+export const isContainName = (names: Array<iPerson>, keyword: string) => {
+  return !!names.filter(person => isIncludesKeyword(person.name, keyword)).length;
+}
+
+export const isMatchStrOption = (target: string, category: Array<string>) => {
+  return !!category.filter(option => isIncludesKeyword(target, option)).length;
 }
