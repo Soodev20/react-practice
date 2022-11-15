@@ -1,0 +1,3434 @@
+[
+  {
+      "club": {
+          "id": "a1a9a197-904b-42f6-afae-ef568951abab",
+          "name": "시작 - 이야기",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/69c8659a-973f-4fea-bc79-e8a4ab30cbe2.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%85%E1%85%B5%E1%84%8E%E1%85%B5%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%83%E1%85%B3.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2029-06-20T22:01:54.672Z",
+                  "startedAt": "2045-01-02T12:52:24.812Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2041-04-07T07:30:32.630Z",
+                  "startedAt": "2031-11-13T11:36:24.452Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2036-10-03T10:17:30.355Z",
+                  "startedAt": "2039-02-18T12:10:10.976Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2042-12-16T05:43:31.342Z",
+                  "startedAt": "2046-07-16T17:47:47.149Z"
+              }
+          ],
+          "description": "Duis pariatur voluptate deserunt adipisicing anim exercitation non ut labore dolor laborum officia irure voluptate. Do incididunt occaecat incididunt ea amet voluptate ipsum elit nulla enim reprehenderit ea et."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2014-03-30T04:52:58.944Z"
+  },
+  {
+      "club": {
+          "id": "967ec43a-82e1-48de-8877-f989d3084723",
+          "name": "체험독서 - 떨림",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2035-06-06T18:46:17.996Z",
+                  "startedAt": "2030-06-30T16:59:39.823Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2036-09-03T05:41:26.505Z",
+                  "startedAt": "2024-11-15T08:39:49.661Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2046-12-22T10:48:30.805Z",
+                  "startedAt": "2039-11-20T08:18:35.354Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2044-08-09T18:50:08.246Z",
+                  "startedAt": "2048-09-13T08:04:58.642Z"
+              }
+          ],
+          "description": "Aute incididunt eu proident dolor duis. Commodo velit consequat ut proident aliqua."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2010-01-19T17:55:26.837Z"
+  },
+  {
+      "club": {
+          "id": "ca12f8b0-9040-4711-8e8a-beaeec1b9352",
+          "name": "북큐 - 온기",
+          "type": "클럽장 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/fe271edd-72a2-41be-8bc5-13f041623c45.%EC%8A%A4%ED%83%80%ED%85%81.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2040-05-06T23:50:33.263Z",
+                  "startedAt": "2023-04-27T02:43:57.084Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2037-05-21T11:37:28.027Z",
+                  "startedAt": "2022-10-02T09:08:42.263Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2029-02-14T19:36:47.787Z",
+                  "startedAt": "2025-06-05T19:45:44.242Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2027-11-23T20:53:53.740Z",
+                  "startedAt": "2038-06-22T16:05:07.789Z"
+              }
+          ],
+          "description": "Eu occaecat sint cillum aute laboris dolor nostrud dolor ullamco. Est sint esse eiusmod cupidatat."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "김정규"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2010-02-07T20:45:59.666Z"
+  },
+  {
+      "club": {
+          "id": "8a9a1d08-b75e-49ee-8c1b-66811169c7ce",
+          "name": "무경계 - 떨림",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/074c6699-e4e3-4ae5-9f40-28de093606b4.%ED%81%B4%EB%9F%BD%EC%9E%A5-%EA%B9%80%EC%A7%84%EC%98%81.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2033-03-14T09:25:38.511Z",
+                  "startedAt": "2046-11-14T00:32:41.958Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2045-02-12T11:49:14.008Z",
+                  "startedAt": "2049-01-09T18:03:52.362Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2030-04-02T15:33:06.475Z",
+                  "startedAt": "2047-05-12T12:16:33.663Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2031-06-27T07:20:38.691Z",
+                  "startedAt": "2028-11-01T14:02:29.627Z"
+              }
+          ],
+          "description": "Eiusmod incididunt amet laboris adipisicing officia Lorem aliqua deserunt deserunt mollit magna. Voluptate velit nisi aliquip ea ea eu dolor dolor et."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "김정규"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2014-03-22T10:31:29.777Z"
+  },
+  {
+      "club": {
+          "id": "a3ac71d2-5064-4353-a501-5a7f6e5ebbfd",
+          "name": "무경계 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/8e309cd0-9678-40a8-9d9a-4abb488c16c7.%E1%84%83%E1%85%B5%E1%84%80%E1%85%B5%E1%86%BC%E1%84%83%E1%85%A5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2046-07-18T16:47:04.175Z",
+                  "startedAt": "2024-03-31T06:28:07.770Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2033-03-11T18:22:21.588Z",
+                  "startedAt": "2022-05-31T06:51:14.669Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2049-11-29T21:42:47.335Z",
+                  "startedAt": "2028-09-21T02:56:08.615Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2034-05-18T16:21:12.842Z",
+                  "startedAt": "2027-04-18T20:40:32.417Z"
+              }
+          ],
+          "description": "Magna labore mollit fugiat nulla cupidatat sit duis proident incididunt. Velit magna ullamco tempor ipsum sint eu aliquip id."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2013-04-04T07:20:59.791Z"
+  },
+  {
+      "club": {
+          "id": "2225f408-179e-4af6-9fc1-a9719fd9a5a2",
+          "name": "무경계 - 이야기",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/f000fd64-d4b5-4e0d-919d-f31bd594b185.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%92%E1%85%A1%E1%84%82%E1%85%A6.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2038-09-04T23:09:04.298Z",
+                  "startedAt": "2024-05-14T16:52:45.525Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2041-06-29T22:19:35.204Z",
+                  "startedAt": "2029-11-12T14:08:57.356Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2037-09-28T11:13:12.883Z",
+                  "startedAt": "2033-05-04T22:01:27.010Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2048-11-22T04:08:19.136Z",
+                  "startedAt": "2024-07-29T21:39:31.528Z"
+              }
+          ],
+          "description": "Culpa cupidatat cupidatat laboris excepteur eiusmod. Minim veniam adipisicing eu eiusmod eiusmod cupidatat nisi veniam sunt elit Lorem anim consectetur."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2011-04-02T01:22:17.624Z"
+  },
+  {
+      "club": {
+          "id": "356fe08d-169b-4382-94c4-d022801c3ab0",
+          "name": "무경계 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/62ef9c15-3206-454f-a095-b51960ae7525.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%82%E1%85%B5%E1%86%B7.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2039-03-20T17:46:27.228Z",
+                  "startedAt": "2039-01-20T06:30:12.168Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2028-12-06T18:45:06.770Z",
+                  "startedAt": "2028-07-19T10:08:48.913Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2031-03-05T18:11:53.296Z",
+                  "startedAt": "2025-10-08T03:18:43.869Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2028-02-03T13:14:53.331Z",
+                  "startedAt": "2038-12-07T14:31:41.359Z"
+              }
+          ],
+          "description": "Dolore laboris ullamco consequat ullamco laborum irure magna aliqua ex veniam elit ad mollit. Magna nostrud occaecat minim eiusmod ullamco proident laborum laboris eiusmod."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2014-08-01T10:06:26.468Z"
+  },
+  {
+      "club": {
+          "id": "cadfcb3a-46f4-41cf-94d5-c8393b58dcd6",
+          "name": "스타텁 - 이야기",
+          "type": "클럽장 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/74659654-03ec-4ea7-9839-5bb3acbd5ed5.%EB%82%98%EC%95%8C%EA%B8%B0-%EC%8A%A4%EA%B0%AD%ED%8B%B1%20%281%29.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2038-02-10T09:23:51.091Z",
+                  "startedAt": "2031-09-14T07:16:24.247Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2022-10-10T14:05:59.264Z",
+                  "startedAt": "2036-11-10T10:18:13.864Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2034-09-08T10:28:33.200Z",
+                  "startedAt": "2041-07-26T21:46:40.315Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2049-05-05T11:36:57.049Z",
+                  "startedAt": "2030-05-24T20:36:05.273Z"
+              }
+          ],
+          "description": "Id qui cupidatat ad in id mollit id voluptate labore adipisicing amet. Laboris anim ex occaecat do ex dolore sit enim voluptate aliqua elit irure commodo deserunt."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2012-06-02T12:45:44.373Z"
+  },
+  {
+      "club": {
+          "id": "aace76cb-7b88-4a56-b45d-b42d0b6b5501",
+          "name": "무경계 - 사랑",
+          "type": "함께 만드는 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/583ddc9b-04bf-4150-a7ce-a9dc5ab43953.%E1%84%82%E1%85%A1%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%B5-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2023-09-09T16:34:22.763Z",
+                  "startedAt": "2023-09-11T05:03:48.925Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2031-08-07T05:35:25.274Z",
+                  "startedAt": "2045-04-29T09:16:42.321Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2046-08-07T20:59:09.811Z",
+                  "startedAt": "2037-10-15T17:39:49.177Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2027-04-25T18:53:47.933Z",
+                  "startedAt": "2043-07-08T12:52:38.324Z"
+              }
+          ],
+          "description": "Deserunt adipisicing sint nostrud consequat excepteur ullamco anim do non ea sint eu sint adipisicing. Deserunt pariatur sunt fugiat ipsum irure elit non labore proident et."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2010-09-28T14:24:08.079Z"
+  },
+  {
+      "club": {
+          "id": "c8f06a40-8008-4db8-8dc5-b3977eb46568",
+          "name": "스타텁 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/69c8659a-973f-4fea-bc79-e8a4ab30cbe2.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%85%E1%85%B5%E1%84%8E%E1%85%B5%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%83%E1%85%B3.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2029-04-08T16:14:55.559Z",
+                  "startedAt": "2039-08-12T16:08:35.881Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2038-04-18T05:41:51.548Z",
+                  "startedAt": "2041-08-18T07:52:08.103Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2032-10-28T07:59:13.030Z",
+                  "startedAt": "2031-08-09T15:17:04.854Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2045-03-13T08:12:49.879Z",
+                  "startedAt": "2028-07-29T04:54:18.973Z"
+              }
+          ],
+          "description": "Consectetur duis commodo magna exercitation quis. Adipisicing reprehenderit proident aute et in do sit veniam aliqua non ut."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2013-05-24T18:55:26.022Z"
+  },
+  {
+      "club": {
+          "id": "5948589b-7604-4c6d-8c42-9b65f9debbea",
+          "name": "스타텁 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/3e4c45cf-7451-487d-97ca-54148e246ea6.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2047-10-13T08:28:25.379Z",
+                  "startedAt": "2045-07-04T20:12:34.824Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2037-06-14T20:46:09.121Z",
+                  "startedAt": "2025-08-02T09:42:52.434Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2030-12-29T21:44:19.513Z",
+                  "startedAt": "2043-02-07T12:19:35.980Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2037-08-27T14:40:02.892Z",
+                  "startedAt": "2035-12-20T03:00:21.965Z"
+              }
+          ],
+          "description": "Esse est velit duis amet proident ut nulla commodo sint fugiat occaecat. Nostrud anim pariatur enim veniam minim tempor."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2011-05-23T16:38:15.974Z"
+  },
+  {
+      "club": {
+          "id": "4d5448fd-951e-4b18-8c41-12ed173c713e",
+          "name": "시작 - 떨림",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/752dec7b-040c-40f3-92c9-2fb13182f96d.%E1%84%82%E1%85%A1%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%B5-%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A1%E1%86%AB.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2025-06-11T06:17:36.123Z",
+                  "startedAt": "2040-02-24T13:12:06.253Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2040-01-06T03:22:18.398Z",
+                  "startedAt": "2049-05-23T17:36:47.933Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2039-06-06T09:31:26.188Z",
+                  "startedAt": "2042-12-28T02:06:45.517Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2036-01-29T15:56:26.313Z",
+                  "startedAt": "2032-05-04T18:59:10.687Z"
+              }
+          ],
+          "description": "Occaecat ipsum culpa qui in sint reprehenderit laborum irure nostrud. Nulla dolore non veniam dolor."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2014-08-23T15:23:04.527Z"
+  },
+  {
+      "club": {
+          "id": "bed79a64-721d-48d8-a5de-43e77ea5589b",
+          "name": "체험독서 - 떨림",
+          "type": "함께 만드는 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/583ddc9b-04bf-4150-a7ce-a9dc5ab43953.%E1%84%82%E1%85%A1%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%B5-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2048-08-26T12:46:37.245Z",
+                  "startedAt": "2027-12-14T17:14:02.627Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2031-04-05T04:49:19.008Z",
+                  "startedAt": "2037-12-04T09:10:38.822Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2042-09-25T14:29:36.032Z",
+                  "startedAt": "2028-11-06T06:21:05.754Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2047-11-02T19:12:01.782Z",
+                  "startedAt": "2028-11-20T17:41:22.602Z"
+              }
+          ],
+          "description": "Enim laboris sint exercitation non magna aliquip fugiat. Eu deserunt sit sit nulla labore deserunt deserunt aliqua dolor non cillum."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2012-03-11T17:56:27.476Z"
+  },
+  {
+      "club": {
+          "id": "84243001-a4a0-49e8-9f39-9a47f84ab5ab",
+          "name": "시작 - 떨림",
+          "type": "클럽장 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/fce1aa64-c81d-47aa-a279-59afcf6ef6b6.%EB%A7%88%EC%BC%80%ED%8C%85-%ED%8C%8C%EB%8B%A5%ED%8C%8C%EB%8B%A5.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2023-03-24T04:00:53.866Z",
+                  "startedAt": "2032-03-13T12:07:24.821Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2036-09-11T00:49:39.867Z",
+                  "startedAt": "2036-07-30T10:17:17.658Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2043-09-01T22:26:35.580Z",
+                  "startedAt": "2034-07-09T09:03:24.228Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2027-12-04T02:47:25.227Z",
+                  "startedAt": "2028-08-11T22:39:49.616Z"
+              }
+          ],
+          "description": "Quis culpa do id esse anim commodo elit laborum esse irure enim enim dolor. Ad incididunt aute cupidatat id do eiusmod in enim laborum magna ullamco."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2013-06-17T23:36:03.888Z"
+  },
+  {
+      "club": {
+          "id": "b61487a5-8368-4db0-893e-fbad567de66d",
+          "name": "스타텁 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/3e4c45cf-7451-487d-97ca-54148e246ea6.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2041-06-06T03:38:40.814Z",
+                  "startedAt": "2043-02-13T12:03:54.099Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2041-03-13T07:34:55.650Z",
+                  "startedAt": "2043-02-14T11:43:59.942Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2036-08-29T02:01:53.499Z",
+                  "startedAt": "2029-11-27T07:34:34.257Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2041-11-29T09:38:58.098Z",
+                  "startedAt": "2033-08-25T11:47:11.330Z"
+              }
+          ],
+          "description": "Reprehenderit nostrud sint ipsum amet sunt in. Dolore consequat aliqua tempor incididunt commodo anim in enim ullamco est."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2010-03-29T09:22:13.165Z"
+  },
+  {
+      "club": {
+          "id": "aa551b99-1800-41eb-8cc3-71850ccc0a45",
+          "name": "체험독서 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/10027977-630f-46ea-bc28-05dd389b6d3d.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%85%E1%85%A9%E1%84%8F%E1%85%A6%E1%86%BA.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2030-08-24T01:17:32.829Z",
+                  "startedAt": "2048-05-13T21:46:34.151Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2047-03-01T17:53:57.304Z",
+                  "startedAt": "2034-12-08T21:06:26.615Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2031-05-18T06:33:28.069Z",
+                  "startedAt": "2035-09-04T14:11:11.779Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2048-07-05T04:09:06.880Z",
+                  "startedAt": "2050-04-06T11:23:13.894Z"
+              }
+          ],
+          "description": "Enim culpa enim qui enim consectetur reprehenderit ipsum velit. Elit officia commodo ut fugiat veniam in."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2011-12-04T08:01:08.536Z"
+  },
+  {
+      "club": {
+          "id": "be90523d-1a4a-47fb-8e23-5520089769e5",
+          "name": "스타텁 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/fce1aa64-c81d-47aa-a279-59afcf6ef6b6.%EB%A7%88%EC%BC%80%ED%8C%85-%ED%8C%8C%EB%8B%A5%ED%8C%8C%EB%8B%A5.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2048-08-31T09:28:26.212Z",
+                  "startedAt": "2044-07-15T05:01:17.880Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2048-12-10T21:53:46.112Z",
+                  "startedAt": "2041-08-17T07:06:32.013Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2030-03-20T16:40:11.340Z",
+                  "startedAt": "2035-06-04T02:50:43.018Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2027-09-14T01:46:32.142Z",
+                  "startedAt": "2042-04-08T04:01:13.605Z"
+              }
+          ],
+          "description": "Eiusmod ipsum deserunt qui sint ex aute aliqua quis adipisicing cillum. Amet cupidatat esse sunt aute excepteur minim eiusmod anim excepteur duis et veniam id enim."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2012-10-21T03:04:13.596Z"
+  },
+  {
+      "club": {
+          "id": "c4108561-e517-4954-b585-6443d0e5a8fd",
+          "name": "체험독서 - 이야기",
+          "type": "함께 만드는 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2043-11-11T09:38:41.466Z",
+                  "startedAt": "2048-11-19T12:29:17.724Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2034-04-01T14:27:47.343Z",
+                  "startedAt": "2040-07-14T18:48:09.843Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2035-04-04T21:46:31.519Z",
+                  "startedAt": "2023-08-20T06:29:39.439Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2047-08-05T06:04:11.988Z",
+                  "startedAt": "2043-09-14T02:15:08.241Z"
+              }
+          ],
+          "description": "Ut quis eiusmod tempor amet. Quis commodo amet eu dolor mollit ad labore elit eiusmod pariatur sunt."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2010-07-10T04:49:41.588Z"
+  },
+  {
+      "club": {
+          "id": "739b1034-b5ee-4c65-a8a7-0b8a21582a27",
+          "name": "북큐 - 온기",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/074c6699-e4e3-4ae5-9f40-28de093606b4.%ED%81%B4%EB%9F%BD%EC%9E%A5-%EA%B9%80%EC%A7%84%EC%98%81.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2046-11-27T00:06:35.774Z",
+                  "startedAt": "2042-04-14T16:40:39.470Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2027-07-14T01:57:39.413Z",
+                  "startedAt": "2029-06-21T20:15:07.234Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2047-03-14T01:48:03.019Z",
+                  "startedAt": "2047-04-09T13:24:26.508Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2033-11-28T10:14:43.728Z",
+                  "startedAt": "2029-07-16T18:21:54.745Z"
+              }
+          ],
+          "description": "Sint ullamco mollit occaecat deserunt do cupidatat adipisicing tempor laboris velit in nisi. Ea eiusmod non excepteur cupidatat consequat incididunt exercitation."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2011-07-04T09:06:09.759Z"
+  },
+  {
+      "club": {
+          "id": "3fe91337-33d9-4863-8948-eaced366fcc3",
+          "name": "무경계 - 떨림",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/74659654-03ec-4ea7-9839-5bb3acbd5ed5.%EB%82%98%EC%95%8C%EA%B8%B0-%EC%8A%A4%EA%B0%AD%ED%8B%B1%20%281%29.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2045-10-31T17:10:46.236Z",
+                  "startedAt": "2047-12-19T10:22:31.296Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2047-05-16T08:03:42.008Z",
+                  "startedAt": "2031-09-21T15:14:56.839Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2040-02-21T17:59:02.177Z",
+                  "startedAt": "2025-02-08T08:23:47.457Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2043-06-17T15:30:14.994Z",
+                  "startedAt": "2046-07-20T09:59:57.370Z"
+              }
+          ],
+          "description": "Irure nostrud do irure consequat consequat ullamco enim ea tempor eiusmod. Voluptate dolore eu mollit deserunt laborum esse."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "김정규"
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2010-05-04T14:33:27.307Z"
+  },
+  {
+      "club": {
+          "id": "5f0c410a-d7be-4e53-a9b2-ed91abda46c5",
+          "name": "스타텁 - 이야기",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/74659654-03ec-4ea7-9839-5bb3acbd5ed5.%EB%82%98%EC%95%8C%EA%B8%B0-%EC%8A%A4%EA%B0%AD%ED%8B%B1%20%281%29.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2022-12-14T06:35:41.618Z",
+                  "startedAt": "2029-10-22T12:55:39.569Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2037-06-16T09:31:20.112Z",
+                  "startedAt": "2026-06-03T10:51:31.164Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2048-10-02T20:50:43.173Z",
+                  "startedAt": "2040-09-07T16:44:07.767Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2038-08-30T04:46:31.784Z",
+                  "startedAt": "2043-03-23T09:01:26.653Z"
+              }
+          ],
+          "description": "Adipisicing dolor proident mollit aliqua cupidatat in. Aliquip eu labore sit minim dolor nulla mollit in labore."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "김정규"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2010-04-09T22:36:27.193Z"
+  },
+  {
+      "club": {
+          "id": "3d51cb90-8443-4302-bf99-b8e96ec949ee",
+          "name": "북씨 - 온기",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/074c6699-e4e3-4ae5-9f40-28de093606b4.%ED%81%B4%EB%9F%BD%EC%9E%A5-%EA%B9%80%EC%A7%84%EC%98%81.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2046-03-20T16:12:13.854Z",
+                  "startedAt": "2041-06-03T01:46:50.494Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2036-09-18T20:09:33.688Z",
+                  "startedAt": "2048-09-14T09:39:26.530Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2023-11-20T08:33:21.534Z",
+                  "startedAt": "2048-04-18T19:49:29.012Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2044-10-13T18:28:55.113Z",
+                  "startedAt": "2028-08-24T13:22:43.877Z"
+              }
+          ],
+          "description": "Esse ea ad minim occaecat eiusmod cupidatat consectetur. Enim id veniam excepteur nisi aliquip sit elit quis."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2013-06-28T11:52:35.291Z"
+  },
+  {
+      "club": {
+          "id": "ca91eec8-88f8-40e0-b0ea-131c4c0d023f",
+          "name": "북씨 - 이야기",
+          "type": "클럽장 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/1aab659a-7a40-4e2f-8530-093b86076ae4.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%82%E1%85%A1%E1%84%87%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2041-05-07T16:21:44.880Z",
+                  "startedAt": "2038-05-19T12:31:04.069Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2023-03-25T14:12:23.292Z",
+                  "startedAt": "2047-02-02T12:35:01.600Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2039-10-16T14:05:10.492Z",
+                  "startedAt": "2046-03-25T13:16:37.897Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2046-07-30T14:50:25.642Z",
+                  "startedAt": "2031-03-14T01:48:08.978Z"
+              }
+          ],
+          "description": "Irure laboris qui reprehenderit aute laborum. Et qui nulla magna aute."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2013-11-10T05:13:00.335Z"
+  },
+  {
+      "club": {
+          "id": "0a59e8f8-3edc-4a34-b679-16558b796782",
+          "name": "스타텁 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/62ef9c15-3206-454f-a095-b51960ae7525.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%82%E1%85%B5%E1%86%B7.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2030-10-22T12:13:58.421Z",
+                  "startedAt": "2032-01-16T17:26:20.335Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2029-09-03T23:40:48.700Z",
+                  "startedAt": "2050-03-30T19:53:54.733Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2047-07-07T09:37:08.121Z",
+                  "startedAt": "2047-10-19T07:44:57.135Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2036-08-25T02:27:13.657Z",
+                  "startedAt": "2037-09-07T03:28:10.957Z"
+              }
+          ],
+          "description": "Deserunt ut adipisicing excepteur adipisicing adipisicing exercitation dolor ea culpa nulla culpa anim occaecat eu. Dolore ad duis nisi proident elit commodo aute adipisicing enim ea."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2011-06-22T07:50:22.413Z"
+  },
+  {
+      "club": {
+          "id": "44db0a86-1994-44a8-8b9b-942f237ea2ce",
+          "name": "북큐 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/69c8659a-973f-4fea-bc79-e8a4ab30cbe2.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%85%E1%85%B5%E1%84%8E%E1%85%B5%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%83%E1%85%B3.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2030-06-12T22:36:03.175Z",
+                  "startedAt": "2027-10-03T05:43:34.848Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2029-06-30T17:41:43.771Z",
+                  "startedAt": "2047-03-03T15:49:41.110Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2047-07-26T15:10:08.758Z",
+                  "startedAt": "2041-07-01T04:33:39.900Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2032-07-24T09:35:02.789Z",
+                  "startedAt": "2047-12-13T07:30:35.902Z"
+              }
+          ],
+          "description": "Sit nulla aliquip sit do consectetur cupidatat aliqua minim voluptate esse consectetur enim do aliquip. Ex cupidatat do nisi fugiat anim nostrud officia deserunt."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2010-03-16T00:32:14.151Z"
+  },
+  {
+      "club": {
+          "id": "f5855178-b7d9-4318-b2d4-d7b520d7186d",
+          "name": "시작 - 온기",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2046-11-26T07:21:51.165Z",
+                  "startedAt": "2041-05-17T08:30:45.193Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2044-01-17T04:59:35.352Z",
+                  "startedAt": "2032-03-08T11:17:23.599Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2035-11-02T12:10:53.559Z",
+                  "startedAt": "2023-07-05T23:40:44.546Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2029-09-23T20:14:02.474Z",
+                  "startedAt": "2049-09-08T23:55:12.363Z"
+              }
+          ],
+          "description": "Culpa consectetur aute reprehenderit tempor nulla esse ad nostrud voluptate exercitation velit cupidatat qui irure. Commodo sint cupidatat laborum sint aliquip nostrud."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "김정규"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2010-05-13T01:48:54.691Z"
+  },
+  {
+      "club": {
+          "id": "11d9f9e9-d56e-4151-ac9d-4f2025fd3fef",
+          "name": "체험독서 - 이야기",
+          "type": "클럽장 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/fce1aa64-c81d-47aa-a279-59afcf6ef6b6.%EB%A7%88%EC%BC%80%ED%8C%85-%ED%8C%8C%EB%8B%A5%ED%8C%8C%EB%8B%A5.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2040-06-23T07:09:10.791Z",
+                  "startedAt": "2041-05-14T09:21:15.527Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2050-03-13T14:37:26.246Z",
+                  "startedAt": "2039-08-12T02:22:55.835Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2027-09-07T18:28:21.495Z",
+                  "startedAt": "2025-02-27T11:06:25.940Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2030-07-29T01:31:55.387Z",
+                  "startedAt": "2035-12-26T12:10:06.752Z"
+              }
+          ],
+          "description": "Commodo reprehenderit sunt minim aliqua do. Incididunt anim fugiat voluptate ea."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2013-09-28T01:22:33.253Z"
+  },
+  {
+      "club": {
+          "id": "cab0c928-5301-4a62-94ff-95a493a7dee4",
+          "name": "시작 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/8e309cd0-9678-40a8-9d9a-4abb488c16c7.%E1%84%83%E1%85%B5%E1%84%80%E1%85%B5%E1%86%BC%E1%84%83%E1%85%A5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2048-07-30T03:24:59.484Z",
+                  "startedAt": "2048-12-02T06:29:52.949Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2042-04-02T23:55:52.126Z",
+                  "startedAt": "2036-05-06T11:12:58.257Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2048-12-22T13:06:24.561Z",
+                  "startedAt": "2038-10-22T15:09:44.089Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2032-05-07T10:39:38.688Z",
+                  "startedAt": "2046-08-14T12:14:24.289Z"
+              }
+          ],
+          "description": "Esse ut cillum voluptate non non proident. Laboris consequat deserunt voluptate anim eiusmod velit veniam reprehenderit magna ut sit laborum."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2011-02-13T20:49:40.747Z"
+  },
+  {
+      "club": {
+          "id": "c24eb388-8cb5-4778-8322-a021ee1ed020",
+          "name": "북큐 - 떨림",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/3e4c45cf-7451-487d-97ca-54148e246ea6.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2029-03-23T13:10:18.632Z",
+                  "startedAt": "2046-11-06T18:31:18.381Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2031-08-06T13:57:31.893Z",
+                  "startedAt": "2030-01-16T20:10:43.176Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2024-06-21T01:45:28.763Z",
+                  "startedAt": "2048-10-11T03:28:46.711Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2033-11-29T19:07:38.454Z",
+                  "startedAt": "2029-11-02T00:15:32.934Z"
+              }
+          ],
+          "description": "Incididunt sit excepteur occaecat amet Lorem incididunt enim aliqua ex. Aute elit ullamco esse sint ullamco veniam."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2013-03-09T16:38:27.675Z"
+  },
+  {
+      "club": {
+          "id": "74762452-4c5b-4378-8a2d-0b6699e57dd6",
+          "name": "북씨 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/62ef9c15-3206-454f-a095-b51960ae7525.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%82%E1%85%B5%E1%86%B7.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2024-10-15T23:14:29.802Z",
+                  "startedAt": "2042-12-13T02:29:15.535Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2030-12-27T05:06:46.949Z",
+                  "startedAt": "2049-05-23T19:19:43.668Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2047-06-26T22:55:47.998Z",
+                  "startedAt": "2032-12-26T06:20:39.160Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2028-03-04T15:48:11.990Z",
+                  "startedAt": "2044-03-20T02:15:48.434Z"
+              }
+          ],
+          "description": "Cillum qui aute minim dolor dolore excepteur minim ipsum ad excepteur velit ullamco. Elit enim nisi Lorem non culpa."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2014-05-12T20:04:22.964Z"
+  },
+  {
+      "club": {
+          "id": "9cc5f9de-506c-4449-aec7-5cc757fc6041",
+          "name": "북씨 - 이야기",
+          "type": "함께 만드는 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/8e309cd0-9678-40a8-9d9a-4abb488c16c7.%E1%84%83%E1%85%B5%E1%84%80%E1%85%B5%E1%86%BC%E1%84%83%E1%85%A5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2023-01-15T17:34:26.891Z",
+                  "startedAt": "2029-03-24T12:11:36.897Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2049-07-29T20:07:29.204Z",
+                  "startedAt": "2033-03-27T22:34:23.825Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2027-03-19T00:42:25.803Z",
+                  "startedAt": "2041-03-09T13:49:15.614Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2041-06-01T17:19:24.701Z",
+                  "startedAt": "2035-06-03T07:21:11.840Z"
+              }
+          ],
+          "description": "Duis laborum eiusmod quis cupidatat aliquip incididunt sit consectetur adipisicing reprehenderit mollit officia ex ut. Id aute elit est irure consequat cillum pariatur cillum occaecat voluptate sit cupidatat sunt exercitation."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2011-02-05T04:18:09.270Z"
+  },
+  {
+      "club": {
+          "id": "972b28da-8fa3-4e1f-9df2-edb4c06d7ed9",
+          "name": "북큐 - 이야기",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/fce1aa64-c81d-47aa-a279-59afcf6ef6b6.%EB%A7%88%EC%BC%80%ED%8C%85-%ED%8C%8C%EB%8B%A5%ED%8C%8C%EB%8B%A5.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2042-08-20T19:54:16.344Z",
+                  "startedAt": "2046-03-31T05:27:38.215Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2031-09-01T15:19:16.976Z",
+                  "startedAt": "2027-10-28T12:10:29.865Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2040-12-19T04:45:23.869Z",
+                  "startedAt": "2046-07-08T23:06:12.524Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2046-12-22T20:57:19.063Z",
+                  "startedAt": "2023-04-24T15:46:21.709Z"
+              }
+          ],
+          "description": "Reprehenderit ad duis dolore exercitation fugiat dolore est anim pariatur cillum. Excepteur mollit culpa eiusmod fugiat cupidatat minim tempor deserunt exercitation occaecat officia."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2013-05-03T04:14:18.612Z"
+  },
+  {
+      "club": {
+          "id": "832b3e60-2ca1-4198-bcc0-8abbf7f3b36a",
+          "name": "북씨 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2038-12-20T18:58:38.858Z",
+                  "startedAt": "2026-05-09T08:39:35.771Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2050-01-18T21:21:35.982Z",
+                  "startedAt": "2033-05-24T05:11:46.183Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2035-02-10T12:51:28.030Z",
+                  "startedAt": "2046-11-24T01:24:54.230Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2023-05-28T18:04:09.417Z",
+                  "startedAt": "2025-07-14T16:10:06.507Z"
+              }
+          ],
+          "description": "Est anim incididunt dolor magna occaecat ullamco do et eu nostrud et fugiat est. Reprehenderit ea do eu ullamco deserunt nisi."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2013-12-19T10:58:41.311Z"
+  },
+  {
+      "club": {
+          "id": "e6d4c6a0-1b41-4dc8-9d9d-5b4603f19835",
+          "name": "북큐 - 떨림",
+          "type": "클럽장 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/62ef9c15-3206-454f-a095-b51960ae7525.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%82%E1%85%B5%E1%86%B7.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2047-03-14T11:28:06.940Z",
+                  "startedAt": "2032-10-09T21:47:57.734Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2027-12-17T04:27:51.240Z",
+                  "startedAt": "2044-03-31T04:10:09.043Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2043-06-29T11:14:43.935Z",
+                  "startedAt": "2029-06-24T06:45:22.511Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2031-08-02T04:08:11.933Z",
+                  "startedAt": "2041-09-27T00:59:27.640Z"
+              }
+          ],
+          "description": "Aliquip tempor veniam mollit id fugiat qui labore consequat aliquip eiusmod cupidatat. Officia officia officia nisi incididunt nulla mollit reprehenderit."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2013-01-07T19:49:01.194Z"
+  },
+  {
+      "club": {
+          "id": "f3698e2e-6602-4183-98ce-bfd81fab5c03",
+          "name": "북큐 - 사랑",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/dbc11f94-f329-41d3-9fd6-e225d3499580.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A1%E1%86%AB.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2040-05-31T13:18:29.303Z",
+                  "startedAt": "2034-01-02T15:24:52.958Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2026-08-10T08:21:59.583Z",
+                  "startedAt": "2045-06-15T00:02:00.279Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2028-01-17T17:38:54.777Z",
+                  "startedAt": "2043-03-02T01:35:10.989Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2028-02-08T04:27:14.727Z",
+                  "startedAt": "2047-09-23T18:38:56.602Z"
+              }
+          ],
+          "description": "Nostrud nulla veniam eiusmod et commodo est qui velit eu. Proident do et aliquip irure ea dolor magna ea."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2013-08-12T23:45:10.686Z"
+  },
+  {
+      "club": {
+          "id": "4c70a74f-8763-449d-b560-01e74ad9ac46",
+          "name": "북큐 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/8e309cd0-9678-40a8-9d9a-4abb488c16c7.%E1%84%83%E1%85%B5%E1%84%80%E1%85%B5%E1%86%BC%E1%84%83%E1%85%A5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2023-12-24T21:26:40.114Z",
+                  "startedAt": "2044-02-07T22:35:42.869Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2036-08-04T19:35:01.900Z",
+                  "startedAt": "2024-04-04T06:21:17.498Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2037-04-14T22:34:57.699Z",
+                  "startedAt": "2026-12-17T07:30:49.837Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2048-04-08T15:37:02.139Z",
+                  "startedAt": "2042-02-21T07:33:56.745Z"
+              }
+          ],
+          "description": "Aliquip veniam consequat nulla minim incididunt quis cupidatat ea ullamco. Qui laboris veniam et quis aute consequat ad eu nostrud."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2012-05-24T01:51:14.017Z"
+  },
+  {
+      "club": {
+          "id": "f25f5bf2-5a72-44f5-b3cf-d5d90ed28ebe",
+          "name": "시작 - 사랑",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/74659654-03ec-4ea7-9839-5bb3acbd5ed5.%EB%82%98%EC%95%8C%EA%B8%B0-%EC%8A%A4%EA%B0%AD%ED%8B%B1%20%281%29.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2023-04-03T00:47:33.400Z",
+                  "startedAt": "2025-11-23T15:36:34.924Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2036-07-30T14:47:02.989Z",
+                  "startedAt": "2045-11-20T06:05:59.513Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2023-02-09T21:42:57.146Z",
+                  "startedAt": "2042-09-07T18:23:38.942Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2040-09-06T11:40:57.910Z",
+                  "startedAt": "2028-11-16T15:34:15.439Z"
+              }
+          ],
+          "description": "Sint sit incididunt quis occaecat veniam cillum. Tempor do reprehenderit reprehenderit sit enim labore est."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2013-04-05T15:49:13.072Z"
+  },
+  {
+      "club": {
+          "id": "1d590a83-6c3d-4f0a-b0fd-0c079511a99d",
+          "name": "체험독서 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/f10a3ec9-b94b-41fd-adb1-cddb94302f74.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%80%E1%85%A8%E1%84%85%E1%85%A1%E1%86%AB.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2043-07-31T09:13:44.424Z",
+                  "startedAt": "2039-06-11T21:38:42.814Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2039-04-20T17:08:40.528Z",
+                  "startedAt": "2025-01-03T23:53:02.190Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2031-05-29T07:42:22.013Z",
+                  "startedAt": "2043-08-18T09:06:16.066Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2044-12-30T05:21:40.393Z",
+                  "startedAt": "2027-11-06T18:36:08.314Z"
+              }
+          ],
+          "description": "Laboris excepteur fugiat Lorem ullamco anim qui Lorem. Cupidatat elit velit ullamco dolore reprehenderit culpa id laboris labore incididunt."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2014-11-27T18:47:22.602Z"
+  },
+  {
+      "club": {
+          "id": "8df9c654-8573-4637-afb5-37b42a2cdaf6",
+          "name": "북큐 - 온기",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/3e4c45cf-7451-487d-97ca-54148e246ea6.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2035-03-13T03:47:45.108Z",
+                  "startedAt": "2028-05-21T17:30:34.182Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2032-11-22T21:56:08.576Z",
+                  "startedAt": "2049-09-30T00:52:50.430Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2022-12-08T06:30:56.477Z",
+                  "startedAt": "2036-10-11T20:59:02.024Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2037-10-19T01:40:21.336Z",
+                  "startedAt": "2028-11-01T18:47:04.318Z"
+              }
+          ],
+          "description": "Officia qui excepteur enim id reprehenderit ullamco reprehenderit non. Ea do eiusmod Lorem exercitation commodo mollit deserunt sint."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2012-02-17T05:08:00.886Z"
+  },
+  {
+      "club": {
+          "id": "5940afe1-7501-48be-95b6-2c4f5ad7f200",
+          "name": "시작 - 떨림",
+          "type": "함께 만드는 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/752dec7b-040c-40f3-92c9-2fb13182f96d.%E1%84%82%E1%85%A1%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%B5-%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A1%E1%86%AB.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2044-10-27T08:38:54.431Z",
+                  "startedAt": "2040-10-14T03:34:20.489Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2022-08-03T15:42:22.793Z",
+                  "startedAt": "2024-11-09T02:29:28.886Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2033-01-18T14:56:28.910Z",
+                  "startedAt": "2043-05-07T23:10:17.525Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2047-09-27T17:34:48.647Z",
+                  "startedAt": "2031-01-03T06:08:58.734Z"
+              }
+          ],
+          "description": "Est anim tempor ex proident sit ea esse sit ex irure tempor cupidatat aliqua in. Lorem velit culpa ut ex magna minim incididunt et non esse velit proident excepteur."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2013-08-22T19:41:08.312Z"
+  },
+  {
+      "club": {
+          "id": "b3b30b5d-6f2d-46fe-ba81-bc0f1fd2945f",
+          "name": "스타텁 - 이야기",
+          "type": "함께 만드는 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/62ef9c15-3206-454f-a095-b51960ae7525.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%82%E1%85%B5%E1%86%B7.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2042-12-11T00:42:18.460Z",
+                  "startedAt": "2033-01-01T06:56:26.182Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2034-05-15T08:18:09.037Z",
+                  "startedAt": "2030-03-09T03:11:34.400Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2036-01-27T05:19:16.759Z",
+                  "startedAt": "2033-05-17T06:00:06.001Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2048-01-08T15:21:48.030Z",
+                  "startedAt": "2029-04-21T07:11:52.043Z"
+              }
+          ],
+          "description": "Dolore ipsum pariatur laborum commodo veniam non et ipsum. Ex cupidatat ea non id pariatur."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2012-11-25T14:05:59.257Z"
+  },
+  {
+      "club": {
+          "id": "18640f67-8092-4be7-9c61-0ee4faec6d71",
+          "name": "스타텁 - 떨림",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2044-02-09T18:28:27.307Z",
+                  "startedAt": "2041-04-08T04:19:50.218Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2039-08-29T20:27:32.070Z",
+                  "startedAt": "2028-02-24T13:45:22.067Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2026-06-08T07:22:47.211Z",
+                  "startedAt": "2034-05-10T20:51:40.898Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2030-12-29T22:31:01.141Z",
+                  "startedAt": "2039-01-30T16:31:44.996Z"
+              }
+          ],
+          "description": "Fugiat culpa pariatur Lorem labore consequat quis dolor ad. Nisi in nulla ipsum labore ipsum elit commodo labore."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2014-04-12T16:43:11.411Z"
+  },
+  {
+      "club": {
+          "id": "a2063fef-c993-431c-b5a1-9a556a6de8bf",
+          "name": "북큐 - 이야기",
+          "type": "함께 만드는 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/62ef9c15-3206-454f-a095-b51960ae7525.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%82%E1%85%B5%E1%86%B7.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2039-01-20T08:10:36.633Z",
+                  "startedAt": "2048-06-16T00:28:58.302Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2050-07-06T21:03:35.915Z",
+                  "startedAt": "2027-07-23T13:44:08.181Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2026-05-14T11:09:20.216Z",
+                  "startedAt": "2043-05-10T14:19:23.432Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2039-11-04T01:58:51.941Z",
+                  "startedAt": "2047-09-21T13:19:51.900Z"
+              }
+          ],
+          "description": "Enim laborum velit incididunt nisi eu esse minim id tempor Lorem ea amet. Eiusmod ut anim reprehenderit non sit adipisicing."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2012-04-30T10:49:19.800Z"
+  },
+  {
+      "club": {
+          "id": "40ee3d34-5a53-4fb1-b30a-3cb74a148ebf",
+          "name": "북큐 - 이야기",
+          "type": "클럽장 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2046-03-10T09:12:33.851Z",
+                  "startedAt": "2032-05-07T18:54:21.466Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2047-02-20T18:02:33.566Z",
+                  "startedAt": "2048-09-26T19:23:38.283Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2047-01-10T23:19:41.874Z",
+                  "startedAt": "2046-02-17T17:01:03.950Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2026-10-13T21:38:10.314Z",
+                  "startedAt": "2045-10-02T22:43:40.171Z"
+              }
+          ],
+          "description": "Officia veniam nulla est ut. Id voluptate consectetur nisi do ullamco cupidatat nisi pariatur ullamco sit quis."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2010-11-27T07:23:00.520Z"
+  },
+  {
+      "club": {
+          "id": "d158ac60-ee2b-4bd8-9423-1ed1c4eb1d6f",
+          "name": "스타텁 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/10027977-630f-46ea-bc28-05dd389b6d3d.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%85%E1%85%A9%E1%84%8F%E1%85%A6%E1%86%BA.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2028-04-22T03:15:09.223Z",
+                  "startedAt": "2042-06-16T19:23:14.232Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2026-11-15T03:08:40.791Z",
+                  "startedAt": "2041-06-10T16:38:36.687Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2042-06-22T06:00:57.337Z",
+                  "startedAt": "2028-05-17T05:29:57.819Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2024-12-07T18:12:49.620Z",
+                  "startedAt": "2032-04-23T14:33:49.715Z"
+              }
+          ],
+          "description": "Occaecat consequat magna et voluptate eiusmod pariatur elit exercitation do sint laborum culpa Lorem qui. Occaecat ex excepteur nisi culpa duis consectetur occaecat aliquip."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "김정규"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2012-08-14T18:36:53.545Z"
+  },
+  {
+      "club": {
+          "id": "9320852d-f2bc-4001-9041-ea8db861df81",
+          "name": "북씨 - 온기",
+          "type": "클럽장 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/f10a3ec9-b94b-41fd-adb1-cddb94302f74.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%80%E1%85%A8%E1%84%85%E1%85%A1%E1%86%AB.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2025-03-04T05:14:55.158Z",
+                  "startedAt": "2023-09-02T04:07:42.388Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2032-04-30T07:55:22.643Z",
+                  "startedAt": "2046-12-10T20:17:50.953Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2046-12-21T03:43:08.806Z",
+                  "startedAt": "2048-11-27T04:23:47.207Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2042-07-13T08:50:31.869Z",
+                  "startedAt": "2032-03-09T17:51:11.297Z"
+              }
+          ],
+          "description": "Nisi pariatur non cupidatat id mollit deserunt sit nostrud non nostrud consequat eu non. Aute elit cillum sit nostrud culpa aliquip cillum."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2011-02-10T06:30:07.137Z"
+  },
+  {
+      "club": {
+          "id": "d378e4f4-035d-4c88-a7a5-d0204e37f725",
+          "name": "북큐 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/074c6699-e4e3-4ae5-9f40-28de093606b4.%ED%81%B4%EB%9F%BD%EC%9E%A5-%EA%B9%80%EC%A7%84%EC%98%81.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2025-05-07T23:37:50.672Z",
+                  "startedAt": "2032-03-14T20:42:51.785Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2044-12-11T18:12:30.456Z",
+                  "startedAt": "2040-05-09T06:49:10.910Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2050-03-31T03:06:18.298Z",
+                  "startedAt": "2024-06-28T09:09:36.195Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2025-04-10T08:30:43.471Z",
+                  "startedAt": "2027-08-16T16:10:37.836Z"
+              }
+          ],
+          "description": "Consequat ad laboris occaecat reprehenderit dolor aliquip do Lorem do est laboris. Commodo laboris officia duis exercitation officia qui in aliquip."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2013-04-17T10:01:49.659Z"
+  },
+  {
+      "club": {
+          "id": "9fbd9855-3dbc-4f91-807d-57cc0948736b",
+          "name": "무경계 - 떨림",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/f10a3ec9-b94b-41fd-adb1-cddb94302f74.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%80%E1%85%A8%E1%84%85%E1%85%A1%E1%86%AB.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2026-11-02T18:52:12.177Z",
+                  "startedAt": "2032-06-01T19:55:14.963Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2032-08-24T17:23:23.122Z",
+                  "startedAt": "2048-07-06T05:15:54.678Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2042-10-27T04:03:48.422Z",
+                  "startedAt": "2029-03-31T21:52:00.114Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2040-04-06T16:21:11.091Z",
+                  "startedAt": "2048-08-04T00:29:02.367Z"
+              }
+          ],
+          "description": "Dolor fugiat laboris fugiat proident aute ullamco aliquip aute excepteur aliquip. Cupidatat esse veniam aute nisi occaecat esse do cupidatat dolore."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2010-10-01T18:40:05.785Z"
+  },
+  {
+      "club": {
+          "id": "a5c1cca3-ad11-4fa6-a969-da4c21f33657",
+          "name": "스타텁 - 온기",
+          "type": "클럽장 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/62ef9c15-3206-454f-a095-b51960ae7525.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%82%E1%85%B5%E1%86%B7.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2027-08-24T21:57:07.111Z",
+                  "startedAt": "2040-04-02T18:32:10.877Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2048-07-25T23:23:37.569Z",
+                  "startedAt": "2038-04-05T11:56:31.437Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2026-05-20T19:02:40.109Z",
+                  "startedAt": "2022-10-31T18:51:28.858Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2030-12-05T03:56:48.954Z",
+                  "startedAt": "2029-07-24T13:36:25.766Z"
+              }
+          ],
+          "description": "Nulla eiusmod officia proident fugiat culpa ullamco exercitation. Reprehenderit non nisi esse quis tempor adipisicing occaecat."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "김정규"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2013-03-15T14:45:00.163Z"
+  },
+  {
+      "club": {
+          "id": "95c31e5c-4369-4981-80e9-6f297eb40500",
+          "name": "무경계 - 이야기",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/74659654-03ec-4ea7-9839-5bb3acbd5ed5.%EB%82%98%EC%95%8C%EA%B8%B0-%EC%8A%A4%EA%B0%AD%ED%8B%B1%20%281%29.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2032-12-13T23:01:00.761Z",
+                  "startedAt": "2024-04-30T00:35:39.312Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2023-12-20T22:55:56.880Z",
+                  "startedAt": "2047-07-09T01:46:42.401Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2043-08-04T05:20:51.277Z",
+                  "startedAt": "2047-07-02T07:58:18.825Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2024-12-05T14:27:21.526Z",
+                  "startedAt": "2042-02-17T06:39:16.312Z"
+              }
+          ],
+          "description": "Ullamco labore ex enim non dolore reprehenderit fugiat. Consectetur incididunt cupidatat reprehenderit non aute mollit consectetur qui adipisicing ad."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2014-03-17T05:17:17.747Z"
+  },
+  {
+      "club": {
+          "id": "15443ac0-4cc3-41ee-8117-81e9ffdbd0e7",
+          "name": "시작 - 이야기",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/367f95f3-9e3a-4ce3-9e1d-360124cab2e6.%ED%81%B4%EB%9F%BD%EC%9E%A5-%EC%A1%B0%EC%98%81%EC%8B%A0%20%281%29.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2044-05-01T16:03:03.474Z",
+                  "startedAt": "2023-08-11T23:27:34.923Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2044-04-22T04:14:54.197Z",
+                  "startedAt": "2043-01-08T09:40:42.990Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2034-02-01T18:43:40.539Z",
+                  "startedAt": "2031-10-07T01:27:58.986Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2028-07-10T08:43:44.647Z",
+                  "startedAt": "2045-07-08T10:37:26.309Z"
+              }
+          ],
+          "description": "Do quis pariatur tempor consectetur non cupidatat labore. Deserunt quis Lorem quis culpa."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "김정규"
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2013-06-26T08:21:07.098Z"
+  },
+  {
+      "club": {
+          "id": "5acaf3d0-4704-43d4-b745-767ac5b80bb4",
+          "name": "체험독서 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/367f95f3-9e3a-4ce3-9e1d-360124cab2e6.%ED%81%B4%EB%9F%BD%EC%9E%A5-%EC%A1%B0%EC%98%81%EC%8B%A0%20%281%29.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2039-08-14T09:42:43.156Z",
+                  "startedAt": "2027-07-18T16:32:01.140Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2022-05-13T11:00:01.269Z",
+                  "startedAt": "2036-02-16T09:01:03.730Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2031-09-13T20:14:39.718Z",
+                  "startedAt": "2047-09-01T22:39:47.415Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2036-12-27T23:07:44.099Z",
+                  "startedAt": "2041-09-07T07:50:58.039Z"
+              }
+          ],
+          "description": "Ut Lorem laboris cillum veniam aute adipisicing nostrud aliqua sit tempor laboris. Lorem non eiusmod nostrud ad reprehenderit pariatur officia dolore nisi adipisicing in quis velit eiusmod."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2013-07-05T08:58:46.773Z"
+  },
+  {
+      "club": {
+          "id": "1b0aeff1-0b58-41a7-a655-1c9942e631a5",
+          "name": "북씨 - 떨림",
+          "type": "함께 만드는 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/74659654-03ec-4ea7-9839-5bb3acbd5ed5.%EB%82%98%EC%95%8C%EA%B8%B0-%EC%8A%A4%EA%B0%AD%ED%8B%B1%20%281%29.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2045-04-19T02:53:42.474Z",
+                  "startedAt": "2028-01-28T23:25:20.531Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2031-07-31T01:13:01.474Z",
+                  "startedAt": "2024-12-29T04:43:07.153Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2029-12-01T02:42:39.530Z",
+                  "startedAt": "2037-05-30T14:29:39.097Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2038-07-05T13:54:21.442Z",
+                  "startedAt": "2049-02-10T11:07:26.250Z"
+              }
+          ],
+          "description": "Ex proident non irure proident do consequat labore laborum irure veniam. Minim cillum reprehenderit exercitation tempor tempor."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2013-10-03T21:32:03.836Z"
+  },
+  {
+      "club": {
+          "id": "77e0cf05-e3af-498e-8a52-d2bd82a9c3dd",
+          "name": "시작 - 떨림",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/10027977-630f-46ea-bc28-05dd389b6d3d.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%85%E1%85%A9%E1%84%8F%E1%85%A6%E1%86%BA.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2035-09-28T13:22:39.866Z",
+                  "startedAt": "2026-02-11T04:55:04.781Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2024-01-08T20:27:04.451Z",
+                  "startedAt": "2034-08-02T21:47:00.904Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2036-02-21T13:52:22.757Z",
+                  "startedAt": "2027-10-02T17:42:04.327Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2038-04-30T13:03:04.398Z",
+                  "startedAt": "2038-11-10T06:50:22.453Z"
+              }
+          ],
+          "description": "Adipisicing id nisi irure sunt. Dolor ut amet minim dolore sunt esse quis nulla quis Lorem."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2010-01-03T11:22:33.052Z"
+  },
+  {
+      "club": {
+          "id": "b4f010bc-8221-4671-a92f-4a62a67f4cd0",
+          "name": "스타텁 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/074c6699-e4e3-4ae5-9f40-28de093606b4.%ED%81%B4%EB%9F%BD%EC%9E%A5-%EA%B9%80%EC%A7%84%EC%98%81.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2045-02-13T19:01:53.466Z",
+                  "startedAt": "2029-09-13T14:58:39.091Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2030-10-09T11:12:07.938Z",
+                  "startedAt": "2035-03-15T22:16:36.187Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2042-04-14T07:09:28.558Z",
+                  "startedAt": "2026-07-11T15:43:58.405Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2030-10-17T23:02:57.425Z",
+                  "startedAt": "2036-08-20T06:41:12.729Z"
+              }
+          ],
+          "description": "Adipisicing culpa minim cupidatat minim adipisicing qui exercitation aute laborum reprehenderit laborum irure velit. Qui deserunt sunt ut nostrud ad esse exercitation cupidatat incididunt irure tempor elit eiusmod."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2014-06-06T08:11:30.305Z"
+  },
+  {
+      "club": {
+          "id": "f526ef32-f421-4733-bb75-a7e4720f1b4a",
+          "name": "스타텁 - 떨림",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/fce1aa64-c81d-47aa-a279-59afcf6ef6b6.%EB%A7%88%EC%BC%80%ED%8C%85-%ED%8C%8C%EB%8B%A5%ED%8C%8C%EB%8B%A5.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2047-04-03T08:52:04.851Z",
+                  "startedAt": "2043-10-07T16:16:55.974Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2045-11-25T20:20:14.698Z",
+                  "startedAt": "2046-08-08T10:40:37.555Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2041-09-26T02:01:07.326Z",
+                  "startedAt": "2044-10-10T00:24:04.148Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2031-03-29T23:38:52.094Z",
+                  "startedAt": "2038-05-30T16:44:06.648Z"
+              }
+          ],
+          "description": "Incididunt dolor amet nulla quis culpa cillum culpa sit et eiusmod. Voluptate nostrud tempor fugiat incididunt nulla sint voluptate."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2010-05-12T00:10:05.129Z"
+  },
+  {
+      "club": {
+          "id": "57eaab8c-1ffa-416c-9d8a-5b7b1e7fe6fd",
+          "name": "시작 - 떨림",
+          "type": "함께 만드는 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2024-04-13T16:41:22.316Z",
+                  "startedAt": "2039-08-14T11:26:48.956Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2031-02-21T06:07:19.931Z",
+                  "startedAt": "2027-10-04T14:11:48.522Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2028-04-16T09:58:06.986Z",
+                  "startedAt": "2031-11-05T19:30:49.054Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2039-08-27T03:41:58.146Z",
+                  "startedAt": "2039-02-25T14:06:05.606Z"
+              }
+          ],
+          "description": "Labore voluptate sunt pariatur adipisicing incididunt cupidatat adipisicing commodo culpa deserunt. Occaecat eiusmod amet aliquip ullamco sint consectetur dolore culpa in quis officia."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2012-01-12T19:39:05.962Z"
+  },
+  {
+      "club": {
+          "id": "eefdc8f1-c2cf-488c-b60b-967032a9248a",
+          "name": "스타텁 - 온기",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/fe271edd-72a2-41be-8bc5-13f041623c45.%EC%8A%A4%ED%83%80%ED%85%81.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2043-03-10T23:10:59.390Z",
+                  "startedAt": "2022-08-23T01:33:46.397Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2037-08-03T00:24:07.957Z",
+                  "startedAt": "2046-08-10T10:12:04.705Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2032-11-14T14:57:00.354Z",
+                  "startedAt": "2036-01-18T04:09:23.581Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2050-06-14T23:55:04.377Z",
+                  "startedAt": "2041-10-17T02:11:34.562Z"
+              }
+          ],
+          "description": "Occaecat nostrud nulla mollit laboris sint. Culpa incididunt magna tempor proident nulla ex sunt aute cillum."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "김정규"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2010-01-10T11:32:01.494Z"
+  },
+  {
+      "club": {
+          "id": "c473a0d7-565c-4d98-b928-f20580d7be9a",
+          "name": "체험독서 - 온기",
+          "type": "클럽장 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/d1f3289a-046e-441a-b4a8-29595dd2e51b.%E1%84%86%E1%85%A1%E1%84%8F%E1%85%A6%E1%84%90%E1%85%B5%E1%86%BC-%E1%84%91%E1%85%B2%E1%84%8E%E1%85%A5.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2048-12-12T01:32:57.143Z",
+                  "startedAt": "2030-08-29T01:24:48.687Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2030-11-20T22:53:20.245Z",
+                  "startedAt": "2027-12-30T09:13:26.116Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2026-01-14T16:57:56.881Z",
+                  "startedAt": "2037-06-23T04:23:58.209Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2043-03-05T07:54:06.302Z",
+                  "startedAt": "2043-05-23T10:01:34.840Z"
+              }
+          ],
+          "description": "Occaecat ullamco eu labore elit mollit ut quis non. Ipsum eu culpa Lorem exercitation fugiat minim consectetur irure."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2010-11-11T23:37:48.686Z"
+  },
+  {
+      "club": {
+          "id": "16f181c3-0102-4452-aec7-51f6d695f917",
+          "name": "북큐 - 이야기",
+          "type": "함께 만드는 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/d1f3289a-046e-441a-b4a8-29595dd2e51b.%E1%84%86%E1%85%A1%E1%84%8F%E1%85%A6%E1%84%90%E1%85%B5%E1%86%BC-%E1%84%91%E1%85%B2%E1%84%8E%E1%85%A5.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2037-07-06T21:11:05.090Z",
+                  "startedAt": "2027-04-13T19:34:30.246Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2049-07-23T00:27:02.666Z",
+                  "startedAt": "2027-12-01T04:56:06.462Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2043-02-17T01:15:22.435Z",
+                  "startedAt": "2043-01-24T14:14:33.583Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2025-03-25T03:57:48.265Z",
+                  "startedAt": "2031-08-13T19:10:14.543Z"
+              }
+          ],
+          "description": "Ipsum excepteur ullamco laborum ullamco duis culpa non anim ipsum excepteur sit aliqua sint aute. Quis dolor elit officia culpa duis id."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2012-04-16T19:05:19.267Z"
+  },
+  {
+      "club": {
+          "id": "44ecc474-9889-44ad-95d0-8e827021d294",
+          "name": "무경계 - 온기",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2022-12-05T19:19:12.248Z",
+                  "startedAt": "2027-07-04T15:34:36.645Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2025-10-15T08:10:31.381Z",
+                  "startedAt": "2039-03-31T04:33:24.094Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2037-11-02T22:07:24.845Z",
+                  "startedAt": "2038-02-23T15:29:17.159Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2042-07-10T18:02:47.998Z",
+                  "startedAt": "2043-10-02T22:42:25.478Z"
+              }
+          ],
+          "description": "Deserunt quis id dolore minim aliqua Lorem veniam eiusmod mollit ullamco proident. Quis labore culpa ex enim ipsum aliquip ipsum aute pariatur enim cupidatat."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2013-05-05T02:42:33.334Z"
+  },
+  {
+      "club": {
+          "id": "de810b9a-d0d4-485e-9751-ece91e711b46",
+          "name": "체험독서 - 떨림",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2035-01-28T16:14:14.905Z",
+                  "startedAt": "2045-03-17T20:18:10.096Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2041-03-05T20:10:52.704Z",
+                  "startedAt": "2022-10-15T13:19:12.233Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2025-04-30T22:45:28.252Z",
+                  "startedAt": "2033-07-24T13:24:56.517Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2031-11-02T01:34:26.756Z",
+                  "startedAt": "2038-05-23T04:01:21.319Z"
+              }
+          ],
+          "description": "Sunt cupidatat voluptate duis nisi magna. Aliquip mollit dolor ut id pariatur eiusmod ea labore culpa sunt cillum amet non est."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "윤태진"
+          }
+      ],
+      "createdAt": "2014-10-31T18:39:37.308Z"
+  },
+  {
+      "club": {
+          "id": "137c8fd0-9969-43cf-9c38-020cdfa26c64",
+          "name": "시작 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/fce1aa64-c81d-47aa-a279-59afcf6ef6b6.%EB%A7%88%EC%BC%80%ED%8C%85-%ED%8C%8C%EB%8B%A5%ED%8C%8C%EB%8B%A5.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2032-11-19T01:11:06.680Z",
+                  "startedAt": "2049-12-25T19:00:14.691Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2023-08-13T16:28:32.395Z",
+                  "startedAt": "2046-03-28T08:39:45.011Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2043-03-17T16:36:44.626Z",
+                  "startedAt": "2032-06-13T17:08:34.895Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2041-12-22T17:17:22.681Z",
+                  "startedAt": "2043-04-29T00:49:53.895Z"
+              }
+          ],
+          "description": "Fugiat est consectetur deserunt cillum eu labore amet commodo ullamco sint pariatur. Pariatur irure consectetur est veniam enim ea."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2012-03-25T17:50:39.728Z"
+  },
+  {
+      "club": {
+          "id": "b950f6f2-c268-4bca-a1d7-322309f76fb4",
+          "name": "북씨 - 온기",
+          "type": "클럽장 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/8e309cd0-9678-40a8-9d9a-4abb488c16c7.%E1%84%83%E1%85%B5%E1%84%80%E1%85%B5%E1%86%BC%E1%84%83%E1%85%A5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2043-01-13T23:41:40.676Z",
+                  "startedAt": "2037-02-26T02:59:09.740Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2023-09-05T19:02:10.815Z",
+                  "startedAt": "2027-05-22T12:26:45.629Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2028-04-25T18:43:51.545Z",
+                  "startedAt": "2036-07-25T03:23:58.807Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2034-10-08T01:13:12.638Z",
+                  "startedAt": "2039-07-21T19:54:50.446Z"
+              }
+          ],
+          "description": "Ullamco et exercitation veniam amet aliqua occaecat esse do nostrud. Nisi proident ullamco veniam ut commodo est consectetur ipsum consequat."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2010-07-07T08:22:42.159Z"
+  },
+  {
+      "club": {
+          "id": "976e9485-dc95-4c92-bf31-13ecbc9855b5",
+          "name": "시작 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/3e4c45cf-7451-487d-97ca-54148e246ea6.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2036-09-25T01:01:11.609Z",
+                  "startedAt": "2044-01-03T00:37:00.334Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2031-10-24T09:53:27.962Z",
+                  "startedAt": "2044-09-18T11:50:50.638Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2049-11-29T07:46:59.564Z",
+                  "startedAt": "2036-08-10T10:25:10.042Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2049-08-09T16:55:04.616Z",
+                  "startedAt": "2034-03-27T17:22:43.959Z"
+              }
+          ],
+          "description": "Nisi sunt sunt enim consectetur anim elit officia quis sunt enim eu. Aute id ad esse consequat esse ex nostrud nulla fugiat."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2010-02-14T00:27:00.380Z"
+  },
+  {
+      "club": {
+          "id": "7c2158c0-32a0-4945-a84a-64e8e6db9acd",
+          "name": "시작 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/583ddc9b-04bf-4150-a7ce-a9dc5ab43953.%E1%84%82%E1%85%A1%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%B5-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2032-12-07T11:40:56.880Z",
+                  "startedAt": "2046-05-18T00:19:47.567Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2031-07-03T20:39:03.864Z",
+                  "startedAt": "2046-04-20T14:49:49.651Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2023-03-29T00:00:05.626Z",
+                  "startedAt": "2037-03-17T04:30:49.438Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2037-06-07T12:03:23.379Z",
+                  "startedAt": "2043-03-16T19:36:17.077Z"
+              }
+          ],
+          "description": "Reprehenderit do ullamco amet duis consectetur tempor exercitation reprehenderit non laborum cupidatat velit est. Eu eiusmod veniam cupidatat esse non consequat nostrud."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2012-11-24T05:40:39.423Z"
+  },
+  {
+      "club": {
+          "id": "b029bba2-acb2-420e-9211-cead870acb4a",
+          "name": "스타텁 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2037-12-12T22:31:23.542Z",
+                  "startedAt": "2027-10-27T12:04:04.537Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2035-11-02T10:59:54.360Z",
+                  "startedAt": "2022-08-31T11:14:17.267Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2026-09-08T17:20:42.087Z",
+                  "startedAt": "2050-06-04T16:13:38.163Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2025-07-06T18:12:37.822Z",
+                  "startedAt": "2044-02-08T21:29:20.707Z"
+              }
+          ],
+          "description": "Pariatur dolor dolor quis est irure aliquip dolor ea ex. Tempor quis irure ut sint in pariatur magna officia veniam laborum culpa velit consequat dolore."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2012-07-30T19:11:20.389Z"
+  },
+  {
+      "club": {
+          "id": "d37c1f58-9a5f-4501-ad1a-c95f14bacc56",
+          "name": "무경계 - 사랑",
+          "type": "함께 만드는 클럽",
+          "place": "온라인",
+          "coverUrl": "https://image.trevari.co.kr/file/752dec7b-040c-40f3-92c9-2fb13182f96d.%E1%84%82%E1%85%A1%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%B5-%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A1%E1%86%AB.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2028-02-15T00:42:21.234Z",
+                  "startedAt": "2035-10-03T16:04:42.682Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2040-10-13T11:16:02.153Z",
+                  "startedAt": "2040-03-08T17:59:38.238Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2022-12-31T00:13:50.174Z",
+                  "startedAt": "2042-02-07T02:15:25.572Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2048-03-18T04:28:00.288Z",
+                  "startedAt": "2048-05-09T00:35:41.657Z"
+              }
+          ],
+          "description": "Qui id id cupidatat sunt commodo occaecat dolor incididunt eu eu qui ipsum sunt. Id dolore tempor ea Lorem minim reprehenderit."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2010-05-17T08:19:11.077Z"
+  },
+  {
+      "club": {
+          "id": "ff9d5176-69d5-4b8e-9545-d87c941c778d",
+          "name": "체험독서 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/f000fd64-d4b5-4e0d-919d-f31bd594b185.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%92%E1%85%A1%E1%84%82%E1%85%A6.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2038-07-16T18:03:36.369Z",
+                  "startedAt": "2044-08-01T07:47:31.330Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2039-07-06T17:19:36.918Z",
+                  "startedAt": "2041-04-11T21:31:23.004Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2028-04-29T09:26:16.668Z",
+                  "startedAt": "2042-11-05T00:18:46.057Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2031-06-30T13:51:16.194Z",
+                  "startedAt": "2042-01-04T18:24:47.357Z"
+              }
+          ],
+          "description": "Pariatur occaecat ipsum officia quis duis aliqua laborum ullamco do sint aute eiusmod. Est incididunt duis tempor laborum duis dolor cillum."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2014-03-22T19:35:24.281Z"
+  },
+  {
+      "club": {
+          "id": "7ae608d4-3a9e-4a71-9cbf-6ec64f36e280",
+          "name": "체험독서 - 온기",
+          "type": "클럽장 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/1aab659a-7a40-4e2f-8530-093b86076ae4.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%82%E1%85%A1%E1%84%87%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2040-10-28T00:50:38.349Z",
+                  "startedAt": "2040-09-02T00:43:05.963Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2022-10-25T15:15:05.693Z",
+                  "startedAt": "2038-04-21T23:16:53.283Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2048-02-08T23:42:12.265Z",
+                  "startedAt": "2033-06-08T23:37:13.328Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2032-07-01T00:36:47.260Z",
+                  "startedAt": "2024-05-03T22:39:10.631Z"
+              }
+          ],
+          "description": "Velit aute Lorem anim cillum sunt occaecat officia velit non aliquip cupidatat proident incididunt tempor. Irure Lorem consectetur esse sit nisi sit exercitation minim tempor veniam proident."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2011-12-05T18:31:05.559Z"
+  },
+  {
+      "club": {
+          "id": "070ac9fc-3627-42f0-bca5-aa292eb62e59",
+          "name": "체험독서 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/a28dc3fa-9592-403c-b896-029bc6654aa0.%E1%84%8B%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%83%E1%85%B3%E1%86%AF-1.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2038-12-21T01:48:30.932Z",
+                  "startedAt": "2040-02-21T05:46:22.369Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2026-04-14T13:40:39.005Z",
+                  "startedAt": "2032-01-24T21:46:14.443Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2027-04-30T01:44:26.309Z",
+                  "startedAt": "2024-08-01T09:29:42.337Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2035-08-19T00:58:26.528Z",
+                  "startedAt": "2025-03-05T13:25:19.596Z"
+              }
+          ],
+          "description": "Esse occaecat dolor laborum dolor fugiat et. Laborum enim nostrud anim voluptate minim nisi cillum nisi excepteur veniam eiusmod."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2012-10-11T02:04:53.657Z"
+  },
+  {
+      "club": {
+          "id": "e4bcc7fd-4f20-422c-adbd-e1d88e771762",
+          "name": "북큐 - 사랑",
+          "type": "함께 만드는 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/69c8659a-973f-4fea-bc79-e8a4ab30cbe2.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%85%E1%85%B5%E1%84%8E%E1%85%B5%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%83%E1%85%B3.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2041-01-03T04:44:39.594Z",
+                  "startedAt": "2047-08-07T14:44:09.067Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2022-08-07T20:23:40.429Z",
+                  "startedAt": "2049-01-07T04:59:00.129Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2035-02-21T14:05:21.689Z",
+                  "startedAt": "2028-04-16T07:32:31.831Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2027-11-20T08:29:58.303Z",
+                  "startedAt": "2034-03-09T01:30:15.953Z"
+              }
+          ],
+          "description": "Deserunt irure in adipisicing velit sint dolore ipsum commodo deserunt occaecat velit excepteur. Labore tempor deserunt amet exercitation commodo eiusmod sunt."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2010-03-03T04:40:19.975Z"
+  },
+  {
+      "club": {
+          "id": "6189e4c1-32a7-47be-a6ad-08ddde141be6",
+          "name": "체험독서 - 온기",
+          "type": "함께 만드는 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/3e4c45cf-7451-487d-97ca-54148e246ea6.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2023-12-25T08:44:31.489Z",
+                  "startedAt": "2043-08-05T18:21:44.756Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2031-04-21T12:08:02.025Z",
+                  "startedAt": "2035-04-29T04:27:38.325Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2045-07-08T02:41:01.857Z",
+                  "startedAt": "2049-07-02T19:45:27.610Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2038-02-11T23:13:54.981Z",
+                  "startedAt": "2036-03-09T02:23:36.183Z"
+              }
+          ],
+          "description": "Fugiat officia do aute proident esse anim ea nostrud enim laborum dolor culpa. Sunt velit minim aute ut labore aliqua esse ad sunt."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "신혜성"
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2014-07-04T20:05:49.680Z"
+  },
+  {
+      "club": {
+          "id": "37ccf4ce-9d0c-4090-aa2b-00b1688a45e7",
+          "name": "북큐 - 사랑",
+          "type": "함께 만드는 클럽",
+          "place": "롯데백화점 잠실점 문화센터",
+          "coverUrl": "https://image.trevari.co.kr/file/62ef9c15-3206-454f-a095-b51960ae7525.%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%A5%E1%86%B8-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%82%E1%85%B5%E1%86%B7.jpg",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2023-06-08T10:44:02.992Z",
+                  "startedAt": "2041-02-12T20:04:21.048Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2044-04-13T14:39:42.139Z",
+                  "startedAt": "2027-05-08T01:48:00.194Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2036-04-01T03:36:31.920Z",
+                  "startedAt": "2042-11-17T10:13:48.881Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2026-11-16T10:04:37.594Z",
+                  "startedAt": "2032-11-28T22:13:11.294Z"
+              }
+          ],
+          "description": "Ipsum excepteur commodo anim ad sunt nostrud. Culpa tempor dolore deserunt ex aute exercitation duis id."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": ""
+          }
+      ],
+      "createdAt": "2011-10-26T18:52:46.557Z"
+  },
+  {
+      "club": {
+          "id": "9672a4c6-4036-4c32-845f-345f25bd7920",
+          "name": "스타텁 - 떨림",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/41e12576-3fc2-484c-820b-ade7bdfc9d4b.%E1%84%86%E1%85%AE%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A8-%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2043-02-09T16:31:04.977Z",
+                  "startedAt": "2023-04-01T07:26:38.977Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2034-07-23T18:32:13.598Z",
+                  "startedAt": "2034-06-13T16:53:21.473Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2048-04-28T06:24:47.406Z",
+                  "startedAt": "2034-03-21T00:24:28.879Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2030-12-25T13:46:32.530Z",
+                  "startedAt": "2047-12-31T18:26:46.441Z"
+              }
+          ],
+          "description": "Mollit cillum id laborum ea esse exercitation in pariatur adipisicing ea voluptate deserunt quis do. Nisi in aliqua labore et cupidatat culpa esse adipisicing ipsum excepteur."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2012-04-10T00:45:15.100Z"
+  },
+  {
+      "club": {
+          "id": "e39db80a-d410-4a83-982f-e6164a8cccdb",
+          "name": "시작 - 사랑",
+          "type": "클럽장 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/9070e493-2115-4917-b245-0ce4e9a43bff.%ED%81%B4%EB%9F%BD%EC%9E%A5-%EA%B0%95%EC%A0%95%EC%88%98.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2045-01-21T00:04:30.214Z",
+                  "startedAt": "2035-04-25T00:40:58.493Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2029-05-13T11:47:40.714Z",
+                  "startedAt": "2024-02-22T12:16:00.178Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2032-07-25T08:13:51.435Z",
+                  "startedAt": "2037-02-02T00:21:04.124Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2050-06-01T04:17:03.613Z",
+                  "startedAt": "2024-06-07T16:53:12.045Z"
+              }
+          ],
+          "description": "Occaecat veniam consequat ullamco nisi magna proident aliquip ullamco adipisicing. Deserunt nostrud enim quis sunt proident nisi culpa."
+      },
+      "price": 210000,
+      "leaders": [
+          {
+              "name": "양완수"
+          }
+      ],
+      "partners": [
+          {
+              "name": "조새롬"
+          }
+      ],
+      "createdAt": "2011-11-19T03:33:56.757Z"
+  },
+  {
+      "club": {
+          "id": "5e77ae63-79a0-4307-a444-415fa8754c63",
+          "name": "스타텁 - 사랑",
+          "type": "함께 만드는 클럽",
+          "place": "안국",
+          "coverUrl": "https://image.trevari.co.kr/file/fe271edd-72a2-41be-8bc5-13f041623c45.%EC%8A%A4%ED%83%80%ED%85%81.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2027-04-13T21:57:33.874Z",
+                  "startedAt": "2024-05-20T13:16:19.599Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2037-06-22T01:58:06.571Z",
+                  "startedAt": "2045-09-03T23:05:20.749Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2050-03-02T22:55:14.614Z",
+                  "startedAt": "2041-05-22T22:56:58.092Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2041-06-04T11:14:51.476Z",
+                  "startedAt": "2024-04-22T13:27:38.605Z"
+              }
+          ],
+          "description": "Deserunt ea eu nostrud occaecat reprehenderit reprehenderit duis veniam incididunt reprehenderit. Amet ex nisi ex quis dolor proident laboris quis velit."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": ""
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2012-03-15T17:54:20.686Z"
+  },
+  {
+      "club": {
+          "id": "3e8b51f2-5e6a-4eea-aa00-446d3085df37",
+          "name": "북큐 - 온기",
+          "type": "클럽장 클럽",
+          "place": "강남",
+          "coverUrl": "https://image.trevari.co.kr/file/d1f3289a-046e-441a-b4a8-29595dd2e51b.%E1%84%86%E1%85%A1%E1%84%8F%E1%85%A6%E1%84%90%E1%85%B5%E1%86%BC-%E1%84%91%E1%85%B2%E1%84%8E%E1%85%A5.png",
+          "meetings": [
+              {
+                  "order": 1,
+                  "endedAt": "2035-10-27T09:52:47.748Z",
+                  "startedAt": "2032-04-15T20:13:46.451Z"
+              },
+              {
+                  "order": 2,
+                  "endedAt": "2022-04-28T01:42:21.388Z",
+                  "startedAt": "2037-05-07T22:46:07.797Z"
+              },
+              {
+                  "order": 3,
+                  "endedAt": "2031-08-26T19:59:02.859Z",
+                  "startedAt": "2042-05-03T19:39:51.145Z"
+              },
+              {
+                  "order": 4,
+                  "endedAt": "2028-07-10T17:42:21.476Z",
+                  "startedAt": "2039-12-28T20:40:19.942Z"
+              }
+          ],
+          "description": "Ad consectetur magna officia officia incididunt aliqua officia ut duis. Aute fugiat veniam aute ipsum deserunt officia."
+      },
+      "price": 310000,
+      "leaders": [
+          {
+              "name": "김정규"
+          }
+      ],
+      "partners": [
+          {
+              "name": "정현진"
+          }
+      ],
+      "createdAt": "2012-03-19T05:32:36.606Z"
+  }
+]
