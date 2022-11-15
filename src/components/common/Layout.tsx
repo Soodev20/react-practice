@@ -1,8 +1,12 @@
 import { Outlet, useLocation, useNavigate } from 'react-router-dom';
 import { css } from '@emotion/react';
 import SearchInput from '../SearchInput';
-import { Fragment } from 'react';
 import Button from './Button';
+
+const layoutCss = css`
+  min-width: 300px;
+  min-height: 600px;
+`
 
 const headerArea = css`
   position: fixed;
@@ -14,6 +18,7 @@ const headerArea = css`
   height: 50px;
   padding: 5px 0.5rem;
   z-index: 1000;
+  background-color: white;
 `
 
 const outletArea = css`
@@ -27,9 +32,8 @@ function Layout() {
   const { pathname } = useLocation();
   const navigate = useNavigate();
 
-
   return (
-    <Fragment>
+    <div css={layoutCss}>
       <header css={headerArea}>
           {(pathname === '/' || pathname === '/list')
             ? (
@@ -48,7 +52,7 @@ function Layout() {
       <div css={outletArea}>
         <Outlet />
       </div>
-    </Fragment>
+    </div>
   );
 }
 
