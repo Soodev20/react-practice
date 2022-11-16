@@ -36,7 +36,6 @@ function ListPage() {
     <Fragment>
       <div css={gridWrapper}>
         {!!result && result.map(cardData => {
-        {console.log(result)}
           return (
             <div key={cardData.createdAt}>
               <ClubInfoCard cardData={cardData}/>
