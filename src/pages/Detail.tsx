@@ -22,7 +22,16 @@ function DetailPage() {
 
   return (
     <Fragment>
-      {id.length && !!designatedClubData && <ClubDetailCard cardData={designatedClubData}/>}
+      {(id.length && !!designatedClubData)
+        && <ClubDetailCard cardData={designatedClubData}/>
+      }
+      {(!designatedClubData || !designatedClubData?.createdAt)
+        && (
+          <div>
+            <h1>일치하는 정보를 찾을 수 없습니다.</h1>
+          </div>
+        )
+      }
     </Fragment>
   );
 }
