@@ -2,9 +2,10 @@ import { Suspense, lazy } from 'react';
 import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
 import Layout from './components/common/Layout';
 import Loading from './components/common/Loading';
+import NotFoundPage from './pages/NotFound';
 
 const ListPage = lazy(() => import('./pages/List'));
-const DetailPage = lazy(() => import('./pages/Detail'))
+const DetailPage = lazy(() => import('./pages/Detail'));
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
             path="/"
             element={<Navigate to="/list" replace />}
           />
+          <Route path="*" element={<NotFoundPage />} />
         </Route>
       </Routes>
     </BrowserRouter>
