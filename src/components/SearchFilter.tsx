@@ -86,9 +86,6 @@ function SearchFilter({ buttonHandler }: filterProp) {
           choices={localOptions.place}
           clickLabelHandler={optionHandler}
         />
-        <div>
-          <input></input>
-        </div>
         <div css={buttonArea}>
           <Button
             clickHandler={buttonHandler}
