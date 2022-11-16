@@ -1,9 +1,11 @@
-import { Fragment } from 'react';
-import { useRecoilValue } from 'recoil';
+import { Fragment, useEffect } from 'react';
+import { useRecoilValue, useRecoilState } from 'recoil';
+import { useLocation } from 'react-router-dom';
 import { css } from '@emotion/react';
 import ClubInfoCard from '../components/ClubInfoCard';
-import { iResponseClubInfo } from '../type/type';
+import { iFilterCondition, iResponseClubInfo } from '../type/type';
 import filterClubInfoSelector from '../recoil/selectors/filterClubInfo';
+import filterOptionChoiceAtom from '../recoil/atoms/filterOptionChoice';
 
 const gridWrapper = css`
   display: grid;
@@ -12,7 +14,23 @@ const gridWrapper = css`
 `
 
 function ListPage() {
-  const result = useRecoilValue<Array<iResponseClubInfo>>(filterClubInfoSelector);
+  const result = useRecoilValue<Array<iResponseClubInfo> | undefined>(filterClubInfoSelector);
+  const [options, setOptions] = useRecoilState<iFilterCondition>(filterOptionChoiceAtom);
+  const location = useLocation();
+
+  useEffect(() => {
+    const searchParams = new URLSearchParams(location.search);
+    const typeParams = searchParams.get('type');
+    const placeParams = searchParams.get('place');
+    const newOption = {} as iFilterCondition;
+
+    if (!typeParams && !placeParams) return;
+
+    if (typeParams) newOption.type = [typeParams];
+    if (placeParams) newOption.place = [placeParams];
+
+    setOptions({ ...options, ...newOption});
+  }, [])
 
   return (
     <Fragment>
@@ -20,7 +38,7 @@ function ListPage() {
         {!!result && result.map(cardData => {
           return (
             <div key={cardData.createdAt}>
-              <ClubInfoCard clubData={cardData.club}/>
+              <ClubInfoCard cardData={cardData}/>
             </div>
           )
         })}
